@@ -1,0 +1,1 @@
+# Problem 14: Geometric Progression\n## Problem: Print N terms of GP. a, ar, ar^2.\n## Solution: `for i in range(n): print(a * r**i)`\n

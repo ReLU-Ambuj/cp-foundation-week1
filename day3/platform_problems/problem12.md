@@ -1,0 +1,1 @@
+# Problem 12: Palindrome number verification.\n## Problem: Reverse number using while loop tracking rem.\n

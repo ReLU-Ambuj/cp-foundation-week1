@@ -1,0 +1,1 @@
+# Problem 6: Digit Sum Single\n## Problem: Sum digits until single digit.\n## Solution: Python O(1) Math: Print `1 + (n - 1) % 9` if n else 0\n

@@ -1,0 +1,1 @@
+# Problem 7: Alternating Series\n## Problem: 1 - 2 + 3 - 4 + 5... to N.\n## Solution: Math `N//2 * -1` if even, add N if odd.\n

@@ -1,0 +1,1 @@
+# Problem 9: Print Evens backwards\n## Problem: Input N. Output all evens from N to 0.\n## Solution: `for i in range((n//2)*2, -1, -2): print(i)`\n

@@ -1,0 +1,1 @@
+# Problem 10: Matrix Anti Diagonal\n## Problem: Print N*N matrix anti-diagonal.\n## Solution: `for i in range(n): print(row[i][n-1-i])`\n

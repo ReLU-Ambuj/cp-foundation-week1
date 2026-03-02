@@ -1,0 +1,1 @@
+# Problem 11: Largest Digit\n## Problem: Find largest digit in integer.\n## Solution: Iterative Modulo 10 tracking max.\n

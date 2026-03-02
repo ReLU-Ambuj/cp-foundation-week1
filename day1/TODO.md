@@ -6,11 +6,11 @@ Check off the boxes `[x]` as you complete each step.
 ## 🟢 Phase 1: Theory Deep Dive (Hours 1–3)
 Read the theory notes carefully. Write down key concepts with pen and paper.
 
-- [Done] Read `README.md` (Understand the goal of this week)
-- [Done] Read `notes/day1_theory.md` (Memory model, Primitives, I/O)
-- [Done] Read `notes/type_system_explained.md` (Casting, precision, input return types)
-- [Done] Read `notes/operators_deep_dive.md` (Floor division, modulo, bitwise logic)
-- [Done] Read `notes/debugging_guide.md` (How to read a traceback)
+- [ ] Read `README.md` (Understand the goal of this week)
+- [ ] Read `notes/day1_theory.md` (Memory model, Primitives, I/O)
+- [ ] Read `notes/type_system_explained.md` (Casting, precision, input return types)
+- [ ] Read `notes/operators_deep_dive.md` (Floor division, modulo, bitwise logic)
+- [ ] Read `notes/debugging_guide.md` (How to read a traceback)
 
 ## 🟡 Phase 2: Micro-Exercises (Hours 3–6)
 Open each file in `day1/exercises/`. Read the constraints and write the code manually. Do not copy-paste.

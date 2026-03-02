@@ -1,0 +1,1 @@
+# Problem 13: Factorial Trailing Zeros\n## Problem: How many trailing zeros in N!.\n## Solution: Count divisors of 5: `while n: res += n//5; n//=5`\n

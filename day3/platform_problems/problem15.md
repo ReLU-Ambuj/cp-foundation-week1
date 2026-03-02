@@ -1,0 +1,1 @@
+# Problem 15: Checkerboard Generator\n## Problem: Print N*M matrix alternating 0 and 1.\n## Solution: `print("1" if (r+c)%2==0 else "0")`\n
