@@ -24,25 +24,7 @@ Every day in this repository follows a strict, repeating 4-Phase workflow design
 **Focus**: Boolean algebra, Control Flow Graphs (CFGs), and short-circuiting.
 - **Goal**: Master Guard Clauses (early returns), flatten nested `if/else` statements, and engineer strict boundary checks for adversarial inputs.
 
-### [Day 3: Looping Constructs & Iteration]
-**Focus**: `for` loops, `while` loops, iterables, and generator expressions.
-- **Goal**: Understand iteration time-complexity $O(N)$, loop control (`break`/`continue`/`else`), and how to optimize tight loops for CP bounds. 
 
-### [Day 4: Array (List) Mastery & Two Pointers]
-**Focus**: Python Lists, internal dynamic array sizing, and basic algorithms.
-- **Goal**: Master array slicing, in-place vs out-of-place modifications, and introducing the Two-Pointer technique for $O(N)$ linear scans.
-
-### [Day 5: Strings & Hashing (Dictionaries/Sets)]
-**Focus**: Immutable string operations, character mapping, and $O(1)$ lookups.
-- **Goal**: Master frequency sliding, ASCII shifts, hashing strings, and understanding when to use a `set` vs `list` for competitive speed.
-
-### [Day 6: Functional Paradigms & Recursion Intro]
-**Focus**: Clean functions, scope, `*args`/`**kwargs`, and base cases.
-- **Goal**: Decompose large monolithic problems into testable helper functions and build a rock-solid mental model of the Call Stack.
-
-### [Day 7: The Week 1 Grand Contest]
-**Focus**: Simulated Pressure.
-- **Goal**: A curated set of 5-7 classic CP problems incorporating **everything** from Days 1-6. Strict time limits. No notes.
 
 ---
 
