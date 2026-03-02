@@ -16,11 +16,11 @@ Every day in this repository follows a strict, repeating 4-Phase workflow design
 3. **Platform Problems** (Combining concepts into CP-style challenges)
 4. **Timed Repetition** (Forcing recall under time constraints)
 
-### [Day 1: Core Syntax + Variables + I/O](./day1/README.md)
+### [x] [Day 1: Core Syntax + Variables + I/O](./day1/README.md)
 **Focus**: Memory models, primitive types, implicit/explicit casting, and arithmetic operators.
 - **Goal**: Understand what happens in RAM when a variable is assigned and learn to read stack traces immediately without panicking.
 
-### [Day 2: Advanced Conditional Logic](./day2/README.md)
+### [x] [Day 2: Advanced Conditional Logic](./day2/README.md)
 **Focus**: Boolean algebra, Control Flow Graphs (CFGs), and short-circuiting.
 - **Goal**: Master Guard Clauses (early returns), flatten nested `if/else` statements, and engineer strict boundary checks for adversarial inputs.
 
