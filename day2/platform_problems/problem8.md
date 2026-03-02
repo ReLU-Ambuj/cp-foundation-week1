@@ -1,0 +1,1 @@
+# Problem 8: Time Intersection\n## Problem Statement\nGiven two intervals [A,B] and [C,D]. Do they overlap? (Output YES/NO)\n## Clean Python Solution\n```python\ndef solve():\n    a, b, c, d = map(int, input().split())\n    if max(a, c) <= min(b, d): print("YES")\n    else: print("NO")\n```\n

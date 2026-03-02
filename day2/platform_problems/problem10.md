@@ -1,0 +1,1 @@
+# Problem 10: Sort Three Numbers\n## Problem Statement\nGiven A, B, C. Output them in ascending without lists or sort().\n## Clean Python Solution\n```python\ndef solve():\n    a, b, c = map(int, input().split())\n    if a > b: a, b = b, a\n    if b > c: b, c = c, b\n    if a > b: a, b = b, a\n    print(a, b, c)\n```\n

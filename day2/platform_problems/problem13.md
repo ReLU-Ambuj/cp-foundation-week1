@@ -1,0 +1,1 @@
+# Problem 13: Discount Ceiling\n## Problem Statement\nGiven purchase amt. If >1000, 20% off. If >500, 10% off. Cap max discount at $300.\n## Clean Python Solution\n```python\ndef solve():\n    amt = int(input())\n    disc = 0\n    if amt > 1000: disc = amt * 0.2\n    elif amt > 500: disc = amt * 0.1\n    print(amt - min(disc, 300))\n```\n

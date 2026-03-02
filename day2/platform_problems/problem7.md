@@ -1,0 +1,1 @@
+# Problem 7: Vowel Consonant Ratio O(N)\n## Problem Statement\nCount Vowels vs Consonants and print the larger group.\n## Clean Python Solution\n```python\ndef solve():\n    s = input().lower()\n    v = sum(1 for c in s if c in 'aeiou')\n    c = len(s) - v\n    if v > c: print("Vowels")\n    elif c > v: print("Consonants")\n    else: print("Equal")\n```\n

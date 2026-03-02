@@ -1,0 +1,1 @@
+# Problem 12: Absolute Difference Parity\n## Problem Statement\nGiven A, B. Is |A - B| even or odd?\n## Clean Python Solution\n```python\ndef solve():\n    a, b = map(int, input().split())\n    print("Even" if abs(a - b) % 2 == 0 else "Odd")\n```\n

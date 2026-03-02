@@ -1,0 +1,1 @@
+# Problem 15: Nested Absolute Min\n## Problem Statement\nGiven A, B, C. Minimum absolute value closest to 0.\n## Clean Python Solution\n```python\ndef solve():\n    a, b, c = map(int, input().split())\n    res = a\n    if abs(b) < abs(res): res = b\n    if abs(c) < abs(res): res = c\n    print(res)\n```\n

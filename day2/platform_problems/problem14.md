@@ -1,0 +1,1 @@
+# Problem 14: Leap Year Array Check\n## Problem Statement\nGiven 3 years. Print "Leap" or "Standard" for each.\n## Clean Python Solution\n```python\ndef solve():\n    years = map(int, input().split())\n    for y in years:\n        print("Leap" if (y%4==0 and y%100!=0) or (y%400==0) else "Standard")\n```\n

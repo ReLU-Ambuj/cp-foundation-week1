@@ -1,0 +1,1 @@
+# Problem 11: Valid Palindrome Date\n## Problem Statement\nGiven YYYY MM DD, is it a palindrome string?\n## Clean Python Solution\n```python\ndef solve():\n    y, m, d = input().split()\n    s = y + m + d\n    print("YES" if s == s[::-1] else "NO")\n```\n
