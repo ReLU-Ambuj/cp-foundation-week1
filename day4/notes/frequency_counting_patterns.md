@@ -1,4 +1,3 @@
-===== FILE: cp-foundation-week1/day4/notes/frequency_counting_patterns.md =====
 # Frequency Counting Patterns
 
 ## Counting Using a Dictionary (Hash Map)

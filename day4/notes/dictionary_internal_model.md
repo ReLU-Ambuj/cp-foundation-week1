@@ -1,5 +1,4 @@
-===== FILE: cp-foundation-week1/day4/notes/dictionary_internal_model.md =====
-# Understanding the Dictionary Internal Model
+# The Dictionary Internal Model
 
 ## Conceptual Hashing Basics
 A standard List looks up data via an integer index: `arr[5]`.

@@ -1,4 +1,3 @@
-===== FILE: cp-foundation-week1/day4/notes/nested_loop_matrix_thinking.md =====
 # Nested Loop Matrix Thinking
 
 ## The 2D Iteration Model

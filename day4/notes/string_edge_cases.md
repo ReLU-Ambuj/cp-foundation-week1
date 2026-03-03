@@ -1,4 +1,3 @@
-===== FILE: cp-foundation-week1/day4/notes/string_edge_cases.md =====
 # String Edge Cases
 
 ## Defensive Branching in String Logic

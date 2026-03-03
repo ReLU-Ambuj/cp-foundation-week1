@@ -1,4 +1,3 @@
-===== FILE: cp-foundation-week1/day4/notes/string_iteration_fundamentals.md =====
 # String Iteration Fundamentals
 
 ## The String as an Immutable Sequence

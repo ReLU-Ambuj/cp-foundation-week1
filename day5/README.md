@@ -1,4 +1,3 @@
-===== FILE: cp-foundation-week1/day5/README.md =====
 # Day 5: Functions, Modular Thinking, and Recursion Intro
 
 ## Day Objective

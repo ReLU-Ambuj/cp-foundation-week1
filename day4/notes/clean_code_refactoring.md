@@ -1,5 +1,4 @@
-===== FILE: cp-foundation-week1/day4/notes/clean_code_refactoring.md =====
-# Clean Code & Refactoring Protocol
+# Clean Code and Refactoring Discipline
 
 ## Variable Naming Standards
 In Day 1, single letters were acceptable. In Day 4 matrix frequency logic, single letters cause cognitive collapse.
