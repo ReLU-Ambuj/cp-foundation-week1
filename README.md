@@ -40,6 +40,10 @@ Every day in this repository follows a strict, repeating 4-Phase workflow design
 **Focus**: Speed, pressure simulation, syntax reflex, and algorithmic categorization.
 - **Goal**: Solve 20 rapid-fire problems covering Days 1-5, and complete a strict 2-hour 10-problem mock test without external resources.
 
+### [x] [Day 7: Speed, Clean Code & Mini Project Integration](./day7/README.md)
+**Focus**: Rapid recall, code optimization, DRY principles, and modular architecture.
+- **Goal**: Re-solve 20 problems under time limits and orchestrate a fully functional 5-module CLI application natively in Python.
+
 ---
 
 ## ⚙️ Strict Training Rules
