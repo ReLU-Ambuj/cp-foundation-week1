@@ -24,7 +24,13 @@ Every day in this repository follows a strict, repeating 4-Phase workflow design
 **Focus**: Boolean algebra, Control Flow Graphs (CFGs), and short-circuiting.
 - **Goal**: Master Guard Clauses (early returns), flatten nested `if/else` statements, and engineer strict boundary checks for adversarial inputs.
 
+### [x] [Day 3: Looping Constructs & Iteration Mastery](./day3/README.md)
+**Focus**: `for` loops, `while` loops, invariant logic, and sequence generation.
+- **Goal**: Understand iteration time-complexity $O(N)$, loop control at a machine level, and how to optimize sequences without brute-forcing.
 
+### [x] [Day 4: Nested Loops + Frequency Counting (Strings Intensive)](./day4/README.md)
+**Focus**: Strings, dictionaries, frequency state tracking, and 2D matrix geometry.
+- **Goal**: Master character-level processing, $O(1)$ Hash Maps, and multi-layer nested loop traversals in row-major grids.
 
 ---
 
