@@ -1,0 +1,1 @@
+# Problem 4: Factorial Digit Sum\n## Decomposition: `factorial(n)`, `sum_digits(x)`, `solve(n)`\n

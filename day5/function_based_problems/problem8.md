@@ -1,0 +1,1 @@
+# Problem 8: Custom Base Converter\n## Decomposition: `to_base_10(s, base) -> int`. `from_base_10(n, base) -> str`. `solve` chains them.\n

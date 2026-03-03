@@ -1,0 +1,1 @@
+# Problem 7: Armstrong Filter\n## Decomposition: `is_armstrong(n) -> bool`. `solve(arr) -> list` (filters array returning only armstrongs).\n

@@ -1,0 +1,1 @@
+# Problem 10: Vowel Dominant Words\n## Decomposition: `count_vowels(w) -> int`. `count_consonants(w) -> int`. `is_dominant(w) -> bool`. `solve(sentence) -> int`.\n

@@ -1,0 +1,1 @@
+# Problem 6: Text Normalizer\n## Decomposition: `clean_word(w) -> str` (strips, lowercases). `solve(sentence) -> list` (splits, cleans each, ignores empties).\n

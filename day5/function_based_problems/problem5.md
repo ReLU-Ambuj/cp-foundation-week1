@@ -1,0 +1,1 @@
+# Problem 5: Array LCM\n## Decomposition: `lcm(a,b)` calls `gcd(a,b)`. `solve(arr)` uses accumulator pattern iterating array calling `lcm(current_lcm, arr[i])`.\n
