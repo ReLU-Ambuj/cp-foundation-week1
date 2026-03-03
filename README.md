@@ -36,6 +36,10 @@ Every day in this repository follows a strict, repeating 4-Phase workflow design
 **Focus**: Encapsulation, pure functions, parameter design, LEGB scoping, and call-stack limits.
 - **Goal**: Abstract dirty sequential logic into reusable, deterministic components and visualize recursive depth overhead.
 
+### [x] [Day 6: Consolidation Marathon & Mock Test](./day6/README.md)
+**Focus**: Speed, pressure simulation, syntax reflex, and algorithmic categorization.
+- **Goal**: Solve 20 rapid-fire problems covering Days 1-5, and complete a strict 2-hour 10-problem mock test without external resources.
+
 ---
 
 ## ⚙️ Strict Training Rules
