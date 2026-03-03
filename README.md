@@ -32,6 +32,10 @@ Every day in this repository follows a strict, repeating 4-Phase workflow design
 **Focus**: Strings, dictionaries, frequency state tracking, and 2D matrix geometry.
 - **Goal**: Master character-level processing, $O(1)$ Hash Maps, and multi-layer nested loop traversals in row-major grids.
 
+### [x] [Day 5: Functions, Modular Thinking & Recursion Intro](./day5/README.md)
+**Focus**: Encapsulation, pure functions, parameter design, LEGB scoping, and call-stack limits.
+- **Goal**: Abstract dirty sequential logic into reusable, deterministic components and visualize recursive depth overhead.
+
 ---
 
 ## ⚙️ Strict Training Rules
