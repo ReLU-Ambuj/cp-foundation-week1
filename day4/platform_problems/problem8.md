@@ -1,0 +1,1 @@
+# Problem 8: Diagonal Difference\n## Problem: Given square matrix. Print absolute difference between sum of Main Diagonal and Anti-Diagonal.\n## Solution: `sum_main += mat[i][i]`, `sum_anti += mat[i][N-1-i]`. Return absolute diff.\n

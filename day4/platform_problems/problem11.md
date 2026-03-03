@@ -1,0 +1,1 @@
+# Problem 11: String Rotation Verification\n## Problem: Given A, B. Is B a valid rotation of A?\n## Solution: `len(a) == len(b) and b in a + a`.\n

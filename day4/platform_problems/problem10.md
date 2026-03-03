@@ -1,0 +1,1 @@
+# Problem 10: Vowel Compression\n## Problem: Given S. Remove all vowels if they are adjacent to another vowel.\n## Solution: Guard clause `s[i] in 'aeiou' and s[i-1] in 'aeiou'`.\n

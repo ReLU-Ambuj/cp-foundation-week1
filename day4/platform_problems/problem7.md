@@ -1,0 +1,1 @@
+# Problem 7: Matrix Column Max\n## Problem: Given NxM matrix. Find the maximum value of each column.\n## Solution: Outer loop traverses C (0 to M-1), inner loop traverses R checking `max = max(max, mat[R][C])`.\n

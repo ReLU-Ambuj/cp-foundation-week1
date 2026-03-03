@@ -1,0 +1,1 @@
+# Problem 6: Matrix Row Sum Target\n## Problem: Given NxM matrix and target T. Does any row sum exactly to T?\n## Solution: Nested loop iterating row logic summing c bounds.\n

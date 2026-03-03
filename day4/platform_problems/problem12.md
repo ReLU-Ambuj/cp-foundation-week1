@@ -1,0 +1,1 @@
+# Problem 12: Frequency Sorting\n## Problem: Given S. Sort characters by frequency (descending). If tied, maintain alphabetical order.\n## Solution: Build `freq` dict. Sort list of unique chars using lambda key `(-freq[c], c)`. Rebuild string.\n

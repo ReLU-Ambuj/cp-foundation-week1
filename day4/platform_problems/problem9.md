@@ -1,0 +1,1 @@
+# Problem 9: Consecutive Character Limit\n## Problem: Given S. Print "YES" if no character appears 3 times consecutively.\n## Solution: Linear scan tracking `s[i] == s[i-1]` and counter reset.\n

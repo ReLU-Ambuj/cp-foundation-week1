@@ -1,76 +1,63 @@
 
-## 🟢 Day 3 Phase 1: Theory Deep Dive (Hours 0–2)
-Read the theory notes carefully. Write down key loop concepts and CFGs with pen and paper.
+## 🟢 Day 4 Phase 1: Theory Deep Dive (Hours 0–2)
+Read the theory notes carefully. Understand the shift from numeric bounds to String/Dictionary states.
 
-- [ ] Read `day3/README.md` (Understand the goal of Day 3)
-- [ ] Read `day3/notes/loops_deep_dive.md` (Loop Invariants, Iteration at Machine Level)
-- [ ] Read `day3/notes/range_mechanics.md` ($O(1)$ Iterators, exclusive bounds)
-- [ ] Read `day3/notes/while_loop_design_patterns.md` (Sentinels, accumulators, termination proofs)
-- [ ] Read `day3/notes/nested_loops_and_patterns.md` (Row-col grids, coordinate mapping)
-- [ ] Read `day3/notes/number_theory_loops.md` ($O(\sqrt{N})$ Prime Checks, GCD)
-- [ ] Read `day3/notes/loop_debugging_and_infinite_loops.md` (Manual dry-runs, scope shadowing)
+- [ ] Read `day4/README.md` (Objective & Frequency Modeling Framework)
+- [ ] Read `day4/notes/string_iteration_fundamentals.md` (ASCII mappings, Index vs Direct iteration)
+- [ ] Read `day4/notes/frequency_counting_patterns.md` (Dictionary `.get()`, 1-pass vs 2-pass)
+- [ ] Read `day4/notes/dictionary_internal_model.md` ($O(1)$ Hash Maps, collision concept)
+- [ ] Read `day4/notes/nested_loop_matrix_thinking.md` (Row-major 2D geometry, Main/Anti diagonals)
+- [ ] Read `day4/notes/string_edge_cases.md` (Whitespace, uniform casing, empty strings)
+- [ ] Read `day4/notes/clean_code_refactoring.md` (Naming rules, redundancy avoidance)
 
-## 🟡 Day 3 Phase 2: Math & Sequence Drills (Hours 2–5)
-Open each file in `day3/drills/`. Write the $O(N)$ or $O(1)$ optimal code manually.
+## 🟡 Day 4 Phase 2: String & Frequency Drills (Hours 2–5)
+Open each file in `day4/drills/`. Enforce $O(N)$ dictionary mappings and clean variable naming.
 
-- [ ] `print_1_to_n.py`
-- [ ] `sum_1_to_n.py`
-- [ ] `factorial.py`
-- [ ] `fibonacci_iterative.py`
-- [ ] `prime_check.py`
-- [ ] `primes_till_n.py`
-- [ ] `gcd.py`
-- [ ] `lcm.py`
-- [ ] `armstrong_number.py`
-- [ ] `perfect_number.py`
-- [ ] `strong_number.py`
-- [ ] `reverse_digits.py`
-- [ ] `digit_frequency.py`
-- [ ] `decimal_to_binary.py`
-- [ ] `binary_to_decimal.py`
-- [ ] `sum_of_series.py`
-- [ ] `multiplication_table.py`
+- [ ] `count_vowels.py`
+- [ ] `count_consonants.py`
+- [ ] `character_frequency.py`
+- [ ] `most_frequent_char.py`
+- [ ] `first_non_repeating.py`
+- [ ] `anagram_check.py`
+- [ ] `reverse_string.py`
+- [ ] `palindrome_string.py`
+- [ ] `remove_duplicates.py`
+- [ ] `character_compression.py`
 
-## 🟠 Day 3 Phase 3: Pattern Drills (Hours 5–8)
-Master nested loops in `day3/drills/`. Figure out the row-to-col math mapping.
+## 🟠 Day 4 Phase 3: Matrix Geometry & Formatting (Hours 5–8)
+Master multi-dimensional state tracking and formatting rules in `day4/drills/`.
 
-- [ ] `pattern_set_01.py`
-- [ ] `pattern_set_02.py`
-- [ ] `pattern_set_03.py`
-- [ ] `pattern_set_04.py`
-- [ ] `pattern_set_05.py`
-- [ ] `pattern_set_06.py`
-- [ ] `pattern_set_07.py`
-- [ ] `pattern_set_08.py`
-- [ ] `pattern_set_09.py`
-- [ ] `pattern_set_10.py`
-- [ ] `pascal_triangle_basic.py`
-- [ ] `pyramid_patterns.py`
+- [ ] `word_count.py`
+- [ ] `substring_count.py`
+- [ ] `print_all_substrings.py`
+- [ ] `replace_spaces.py`
+- [ ] `remove_whitespace.py`
+- [ ] `capitalize_words.py`
+- [ ] `star_matrix_pattern.py`
+- [ ] `number_matrix_pattern.py`
+- [ ] `diagonal_matrix_print.py`
+- [ ] `spiral_matrix_basic.py`
 
-## 🔴 Day 3 Phase 4: Platform Problems (Hours 8–13)
-Solve the CP-style iteration problems in `day3/platform_problems/`.
+## �� Day 4 Phase 4: Platform Problems (Hours 8–13)
+Solve the CP-style string/hash problems in `day4/platform_problems/`.
 
-- [ ] Complete `problem1.md` (Summing a Range)
-- [ ] Complete `problem2.md` (Divisors count)
-- [ ] Complete `problem3.md` (Next Prime)
-- [ ] Complete `problem4.md` (Leading Zeros Binary)
-- [ ] Complete `problem5.md` (Collatz Conjecture)
-- [ ] Complete `problem6.md` (Digit Sum Single)
-- [ ] Complete `problem7.md` (Alternating Series)
-- [ ] Complete `problem8.md` (Count Vowels Loop)
-- [ ] Complete `problem9.md` (Print Evens backwards)
-- [ ] Complete `problem10.md` (Matrix Anti Diagonal)
-- [ ] Complete `problem11.md` (Largest Digit)
-- [ ] Complete `problem12.md` (Palindrome number verification)
-- [ ] Complete `problem13.md` (Factorial Trailing Zeros)
-- [ ] Complete `problem14.md` (Geometric Progression)
-- [ ] Complete `problem15.md` (Checkerboard Generator)
+- [ ] Complete `problem1.md` (Uniqueness Detector)
+- [ ] Complete `problem2.md` (Anagram Permutations)
+- [ ] Complete `problem3.md` (Panagram Check)
+- [ ] Complete `problem4.md` (Maximum Character Frequency)
+- [ ] Complete `problem5.md` (Subsequence Verification)
+- [ ] Complete `problem6.md` (Matrix Row Sum Target)
+- [ ] Complete `problem7.md` (Matrix Column Max)
+- [ ] Complete `problem8.md` (Diagonal Difference)
+- [ ] Complete `problem9.md` (Consecutive Character Limit)
+- [ ] Complete `problem10.md` (Vowel Compression)
+- [ ] Complete `problem11.md` (String Rotation Verification)
+- [ ] Complete `problem12.md` (Frequency Sorting)
 
-## 🟣 Day 3 Phase 5: Speed Coding (Hours 13–15)
-The 5-Minute Loop Test. Open `day3/speed_coding/reflex_training.md`.
+## 🟣 Day 4 Phase 5: Refactoring & Review (Hours 13–15)
+The code audit test. Open `day4/review/refactoring_checklist.md`.
 
-- [ ] Prime Check (under 5 mins)
-- [ ] Fibonacci (under 5 mins)
-- [ ] Pyramid Pattern (under 5 mins)
-- [ ] GCD (under 5 mins)
-- [ ] Log results to the Error Matrix
+- [ ] Select 4 solutions you wrote today that feel "messy".
+- [ ] Audit them against the Naming and Redundancy checklists.
+- [ ] Rewrite them for maximum deterministic clarity.
+- [ ] Log results to the Evaluation Table.
